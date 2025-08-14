@@ -1,5 +1,5 @@
 # R-Visualizations
-R Data Visualization Portfolio 
+R Data Visualization Portfolio v
 
 Welcome to my R Data Visualization Portfolio! This repository showcases my work in R, including data visualization, analysis, and basic preprocessing. It serves as a portfolio of my skills for freelance clients, demonstrating my ability to turn datasets into clear, professional, and visually appealing results. Projects range from beginner-level practice to more advanced analyses completed during lab work and my internship. This is a growing portfolio, and I will be adding more R visualizations and projects regularly to showcase my ongoing work and skill development.
 
